@@ -1,4 +1,4 @@
-# MLPipeline: OptimizationStudy
+# MLPipeline: Multivariate Anomaly Detection in High-Dimensional Datasets
 
 ## Overview
 This repository contains the implementation and analysis of machine learning techniques for multivariate anomaly detection in high-dimensional datasets. The project focuses on exploring various preprocessing methods, dimensionality reduction techniques, and classification algorithms in scenarios with different computational power constraints.
